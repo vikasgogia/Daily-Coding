@@ -71,6 +71,10 @@ class BinaryTree {
         return root;
     }
 
+    void setRootForEducationalPurposes(Node* node) {
+        this->root = node;
+    }
+
     void createBinaryTree() {
         this->root = createBinaryTree(root);
     }
