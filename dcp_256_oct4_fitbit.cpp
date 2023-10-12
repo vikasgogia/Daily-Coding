@@ -21,7 +21,7 @@ using namespace std;
 // example: 7 6 10 5 2 1 3
 
 // maintain prev and curr pointers where prev, curr, currNext are taken into consideration at a time
-// prev is needs to be low, curr is high, & currNext is low again
+// prev needs to be low, curr is high, & currNext is low again
 void alternatingLowHigh(Node* head) {
     Node* prev = head;
     Node* curr = head->next;
