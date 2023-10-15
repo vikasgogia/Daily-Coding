@@ -12,7 +12,7 @@ The ancient Egyptians used to express fractions as a sum of several terms where 
 Create an algorithm to turn an ordinary fraction a / b, where a < b, into an Egyptian fraction.
 */
 
-#include<iostream>
+#include <iostream>
 #include <vector>
 #include <cmath>
 using namespace std;
