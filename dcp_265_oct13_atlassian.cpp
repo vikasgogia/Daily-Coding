@@ -1,7 +1,7 @@
 /**
  * Done
  * T.C.: O(n)
- * S.C.: O(n)
+ * S.C.: O(1) [auxillary space consumed is constant]
  * Author: Vikas Gogia
 */
 
